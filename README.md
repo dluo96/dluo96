@@ -1,10 +1,11 @@
-Hi, I’m Daniel!
-- 👨‍💻 I am a machine learning engineer at Datatonic, where I help companies develop ML solutions and deploy them into production. 
-- ⚛️ I studied Physics as an undergraduate and ended up specialising in biophysics and atmospheric physics.
-- 🧬 I did a master's in biotechnology, where I applied computational techniques to guide enzyme engineering.
-- 🌱 I have just finished the Deep Learning Specialization offered by the good folks at deeplearning.ai - as a trained physicist, I solve problems from first principles, and this course excels in teaching machine learning theory from first principles!
-- 🤓 I am currently working my way through the NLP Specialization also offered by deeplearning.ai - great fun so far!
-- 🔬 I am looking to collaborate on projects that leverage AI to advance science, especially the life sciences.
+Hi, I’m Daniel! Here is a few quick facts about me:
+- 👨‍💻 Machine Learning Engineer at Datatonic
+- ⚛️ Studied Physics where I specialised in Biophysics and modelled cells using the physics of active liquid crystals
+- 🧬 Studied Biotechnology where I applied computational methods to inform protein engineering.
+- 🤖 Recently finished the Deep Learning Specialization offered by the good folks at deeplearning.ai
+- 🌱 Strong proponent of first principles thinking
+- 🧀 Currently learning Reinforcement Learning
+- 🔬 Keen to collaborate on projects that leverage AI to advance science, especially the life sciences!
 
 <!---
 dluo96/dluo96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
