@@ -1,10 +1,9 @@
-Hi, I’m Daniel! Here is a few quick facts about me:
-- 👨‍💻 Machine Learning Engineer at InstaDeep
-- ⚛️ Studied Physics where I specialised in Biophysics and modelled cells using the physics of active liquid crystals
-- 🧬 Studied Biotechnology where I applied computational methods to inform protein engineering.
-- 🤖 Recently finished the Deep Learning Specialization offered by the good folks at deeplearning.ai
-- 🌱 Strong proponent of first principles thinking
-- 🧀 Currently learning Reinforcement Learning and JAX
+Hello there! 👋 Welcome to my GitHub! I am Daniel and here are a few quick facts about me:
+- 👨‍💻 I work as a Machine Learning Engineer at InstaDeep
+- ⚛️ I did my undergraduate in Physics at Oxford University
+- 🧬 I studied Biotechnology at Cambridge University
+- 🌱 I am a proponent of first principles thinking
+- 🧠 I love learning! 
 
 <!---
 dluo96/dluo96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
