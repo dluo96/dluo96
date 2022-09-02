@@ -1,6 +1,6 @@
 Hello there! 👋 Welcome to my GitHub! I am Daniel and here are a few quick facts about me:
-- 👨‍💻 I work as a Machine Learning Engineer at InstaDeep
-- ⚛️ I did my undergraduate in Physics at Oxford University
+- 👨‍💻 I work as a Machine Learning Engineer in the AI Research Team at InstaDeep
+- ⚛️ I studied Physics at Oxford University
 - 🧬 I studied Biotechnology at Cambridge University
 - 🌱 I am a proponent of first principles thinking
 - 🧠 I love learning! 
