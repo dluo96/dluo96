@@ -14,9 +14,8 @@ Here are some other facts about me:
 
 My core values are:
 - 🌱 First principles thinking
-- 🤔 Curiosity
+- 🧠 Curiosity
 - 🙌 Humility
-- 🚀 Interdisciplinarity
 
 <!---
 dluo96/dluo96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
