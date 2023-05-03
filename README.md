@@ -1,10 +1,10 @@
 Hi there! 
 
-I'm Daniel Luo.
+I'm Daniel (丹尼尔, دانیال).
 
 I want to understand the universe in the broadest possible sense. I enjoy thinking about physics, mathematics, computer science, and biology, but also about economics, language, and history. 
 
-I'm currently working at the intersection of software engineering, machine learning, and biology, as a Machine Learning Engineer in the BioAI team at InstaDeep (acquired by BioNTech). Prior to this, I worked on reinforcement learning in the AI Research team.
+I'm currently working at the intersection of software engineering, machine learning, and biology, as a Machine Learning Engineer in the BioAI team at InstaDeep (acquired by BioNTech). Before that I worked on reinforcement learning in the AI Research team.
 
 Here are some other facts about me:
 - ⚛️ I studied Physics (Oxford University), specialising in theoretical biophysics. 
