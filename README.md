@@ -10,7 +10,7 @@ Here are some other facts about me:
 - ⚛️ I studied Physics (Oxford University), specialising in theoretical biophysics. 
 - 🧬 I studied Biotechnology (Cambridge University), doing my thesis in protein engineering. 
 - ☁️ I was a key contributor to an [MLOps template](https://github.com/GoogleCloudPlatform/vertex-pipelines-end-to-end-samples) co-developed with and jointly open sourced by Google Cloud Platform. 
-- 🤖 I am a key contributor to [Jumanji](https://github.com/instadeepai/jumanji), InstaDeep's open source suite of reinforcement learning environments written in JAX. 
+- 🦁 I am a key contributor to [Jumanji](https://github.com/instadeepai/jumanji), InstaDeep's open source suite of reinforcement learning environments written in JAX. 
 
 My core values are:
 - 🌱 First principles thinking
