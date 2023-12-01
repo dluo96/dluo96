@@ -9,7 +9,7 @@ Here are some other facts about me:
 - 🧬 I studied Biotechnology (Cambridge University), doing my thesis in protein engineering. 
 - ☁️ I was a key contributor to an [MLOps template](https://github.com/GoogleCloudPlatform/vertex-pipelines-end-to-end-samples) co-developed with and jointly open sourced by Google Cloud Platform. 
 - 🦁 I am a key contributor to [Jumanji](https://github.com/instadeepai/jumanji), InstaDeep's open source suite of reinforcement learning environments written in JAX. You can find the arXiv preprint [here](https://arxiv.org/abs/2306.09884).
-- 📄 I contributed to a [paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1.full.pdf) on applying diffusion models to model TCRpMHC binding interactions. This was published in the NeurIPS MLSB workshop.
+- 📄 I contributed to a [paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1.full.pdf) on applying diffusion models to model TCRpMHC binding interactions. This was published in the NeurIPS 2023 MLSB workshop.
 
 My core values are:
 - 🌱 First principles thinking
