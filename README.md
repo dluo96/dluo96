@@ -11,11 +11,6 @@ Here are some other facts about me:
 - 🦁 I am a key contributor to [Jumanji](https://github.com/instadeepai/jumanji), InstaDeep's open source suite of reinforcement learning environments written in JAX. This was published at ICLR 2024 (arXiv preprint [here](https://arxiv.org/abs/2306.09884)).
 - 📄 I contributed to a [paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1.full.pdf) on applying diffusion models to model TCRpMHC binding interactions. This was published at NeurIPS 2023.
 
-My core values are:
-- 🌱 First principles thinking
-- 🧠 Curiosity
-- 🙌 Humility
-
 <!---
 dluo96/dluo96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
