@@ -1,15 +1,19 @@
-Hi there! 
+Hello! 
 
 I'm Daniel (丹尼尔, دانیال).
 
-I am currently working at the intersection of software engineering, machine learning, and biology, as a Senior Machine Learning Engineer at CoSyne Therapeutics. Before that, I was working on mRNA-based cancer vaccines at InstaDeep (BioNTech). Prior to that, I worked on reinforcement learning in InstaDeep's AI Research team. 
+I believe that engineering is the biggest bottleneck to the effective and safe use of AI. 
 
-Here are some other facts about me:
-- ⚛️ I studied Physics (Oxford University), specialising in theoretical biophysics. 
-- 🧬 I studied Biotechnology (Cambridge University), doing my thesis in protein engineering. 
-- ☁️ I was a key contributor to an [MLOps template](https://github.com/GoogleCloudPlatform/vertex-pipelines-end-to-end-samples) co-developed with and jointly open sourced by Google Cloud Platform. 
-- 🦁 I am a key contributor to [Jumanji](https://github.com/instadeepai/jumanji), InstaDeep's open source suite of reinforcement learning environments written in JAX. This was published at ICLR 2024 (arXiv preprint [here](https://arxiv.org/abs/2306.09884)).
-- 📄 I contributed to a [paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1.full.pdf) on applying diffusion models to model TCRpMHC binding interactions. This was published at NeurIPS 2023.
+I'm currently at [CoSyne Therapeutics](https://www.cosyne.com/), where I work at the intersection of machine learning, software engineering, and biology.
+
+Here are some other things I have worked on:
+- (2023) In InstaDeep's BioAI team, I applied diffusion models and GNNs to model TCRpMHC binding, resulting in a [paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1.full.pdf) published at NeurIPS 2023.
+- (2022) As part of InstaDeep's research team, I was a key contributor to [Jumanji](https://github.com/instadeepai/jumanji), an open source suite of reinforcement learning environments written in JAX. The accompanying [paper](https://arxiv.org/abs/2306.09884) was published at ICLR 2024.
+- (2020-21) I took a detour into cloud engineering at [Datatonic](https://datatonic.com/) where I was a key contributor to an [MLOps template](https://github.com/GoogleCloudPlatform/vertex-pipelines-end-to-end-samples) co-developed with and jointly open sourced by Google Cloud Platform. 
+- (2020) I did a stint in biotechnology at Cambridge University, including a thesis on protein engineering. 
+- (2019) I graduated from Oxford University with a degree in Physics, and received two [Full Blue awards](https://www.sport.ox.ac.uk/blues-awards) in the university swimming team as well as [breaking a club record](https://www.ousc.info/records/mens-sc-records/). 
+- (2015) I represented Denmark at the [2015 IPhO in Mumbai, India](https://ipho-unofficial.org/countries/IND/). 
+- (2014) I won the [Danish Physics Olympiad](https://www.ipho2013.dk/fysikolympiade/). 
 
 <!---
 dluo96/dluo96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
