@@ -5,8 +5,8 @@ I'm Daniel (丹尼尔, دانیال).
 I'm currently at [CoSyne Therapeutics](https://www.cosyne.com/), where I work at the intersection of machine learning, software engineering, and biology. 
 
 A few other facts about me:
-- (2023) In InstaDeep's BioAI team, I applied diffusion models and GNNs to model TCRpMHC binding, resulting in a [paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1.full.pdf) published at NeurIPS 2023.
-- (2022) As part of InstaDeep's research team, I was a key contributor to [Jumanji](https://github.com/instadeepai/jumanji), an open source suite of reinforcement learning environments written in JAX. The accompanying [paper](https://arxiv.org/abs/2306.09884) was published at ICLR 2024.
+- (2023) In the BioAI team at InstaDeep, I applied diffusion models to model binding interactions for the development mRNA cancer vaccines. This resulted in a [paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1.full.pdf) that was published at NeurIPS 2023.
+- (2022) In the research team at [InstaDeep](https://www.instadeep.com), I was a key contributor to [Jumanji](https://github.com/instadeepai/jumanji), an open source suite of reinforcement learning environments written in JAX. The accompanying [paper](https://arxiv.org/abs/2306.09884) was published at ICLR 2024.
 - (2020-21) I took a detour into cloud engineering at [Datatonic](https://datatonic.com/) where I was a key contributor to an [MLOps template](https://github.com/GoogleCloudPlatform/vertex-pipelines-end-to-end-samples) co-developed with and jointly open sourced by Google Cloud Platform. 
 - (2020) I did a stint in biotechnology at Cambridge University, including a thesis on protein engineering. 
 - (2019) I graduated from Oxford University with a degree in Physics, and received two [Full Blue awards](https://www.sport.ox.ac.uk/blues-awards) in the university swimming team as well as [breaking a club record](https://www.ousc.info/records/mens-sc-records/). 
