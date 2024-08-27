@@ -1,6 +1,6 @@
 Hello! 
 
-I'm Daniel (丹尼尔, دانیال).
+I'm Daniel.
 
 I'm currently at [CoSyne Therapeutics](https://www.cosyne.com/), where I work at the intersection of machine learning, software engineering, and biology. 
 
